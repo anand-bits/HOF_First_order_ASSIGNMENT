@@ -19,3 +19,4 @@ x.then(function fun(){
   console.log("promise done")
 });
 console.log("End")
+console.log("Hello")
